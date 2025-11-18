@@ -1,0 +1,5 @@
+{
+  "name": "1Count",
+  "description": "A smart bill splitting application that uses Gemini to analyze receipts and helps groups split costs easily with real-time summaries.",
+  "requestFramePermissions": []
+}
